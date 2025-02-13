@@ -1,3 +1,6 @@
 # Python_project
 
-1:[madlibs](https://colab.research.google.com/drive/1LorSXm4zkKeZ_TyUyNshqtcbC9vD0lKs?usp=sharing)
+
+## Google Colab Links
+[1:Madlibs](https://colab.research.google.com/drive/1LorSXm4zkKeZ_TyUyNshqtcbC9vD0lKs?usp=sharing)
+[2:Guess the number(computer)](https://colab.research.google.com/drive/1af97ycRQyzL38PtF_GY-QHws02sX1Cxg?usp=sharing)
