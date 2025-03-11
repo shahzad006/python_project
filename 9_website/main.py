@@ -59,11 +59,7 @@ if thems == "Black":
 def home():
     st.markdown('<h1> Hello My Name is <span style="color: aqua;"> Muhammad Shahzad </span> </h1>', unsafe_allow_html=True)
     
-    uploaded_file = st.file_uploader("me.jpeg", type=["jpg", "png","jpeg"])
-
-    if uploaded_file is not None:
-    # Display the image
-        st.image(uploaded_file)
+    
     st.markdown("""
         <div class="links">
             <a href="https://github.com/shahzad006" target="_blank">Github</a><br>
